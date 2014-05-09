@@ -1,4 +1,4 @@
-# grunt-openports
+# grunt-openport
 
 > A grunt plugin to find open ports.
 
@@ -6,12 +6,12 @@
 
 Install this grunt plugin next to your project's
 [Gruntfile.js gruntfile](http://gruntjs.com/getting-started) with:
-`npm install grunt-openports`
+`npm install grunt-openport`
 
 Then add this line to your project's `Grunfile.js` gruntfile:
 
 ```js
-grunt.loadNpmTasks('grunt-openports');
+grunt.loadNpmTasks('grunt-openport');
 ```
 
 ## Documentation
