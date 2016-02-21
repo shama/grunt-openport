@@ -67,5 +67,5 @@ Please use the issue tracker and pull requests.
 
 ## License
 
-Copyright (c) 2014 Kyle Robinson Young  
+Copyright (c) 2016 Kyle Robinson Young
 Licensed under the MIT license.
