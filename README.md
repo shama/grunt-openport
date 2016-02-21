@@ -63,9 +63,10 @@ Please use the issue tracker and pull requests.
 
 ## Release History
 
+* Tag grunt as peer dep to `>=0.4.0`. Update openport.
 * 0.1.0 Initial release
 
 ## License
 
-Copyright (c) 2016 Kyle Robinson Young
+Copyright (c) 2016 Kyle Robinson Young  
 Licensed under the MIT license.

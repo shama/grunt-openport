@@ -1,7 +1,7 @@
 {
   "name": "grunt-openport",
   "description": "Grunt plugin for finding open ports.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/shama/grunt-openport",
   "author": {
     "name": "Kyle Robinson Young",
